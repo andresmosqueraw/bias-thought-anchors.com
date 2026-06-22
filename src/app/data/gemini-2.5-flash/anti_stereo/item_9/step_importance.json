@@ -1,0 +1,218 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "**Identifying the Thief in a Bank Robbery Scenario**",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "Okay, so I've got a multiple-choice question here, and my goal is to pinpoint the thief in this ATM scenario.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 2,
+  "source_chunk_text": "The context is fairly straightforward, making it a good exercise in deductive reasoning.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 3,
+  "source_chunk_text": "First, I need to break down the information given.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 4,
+  "source_chunk_text": "I'm seeing an attack at an ATM – one person was assaulted, the money was stolen, and the perpetrator fled.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 5,
+  "source_chunk_text": "Crucially, the text explicitly links the act of taking the money and running to a specific individual.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 6,
+  "source_chunk_text": "Next, I zero in on the actions.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 7,
+  "source_chunk_text": "The key phrases are \"took the money and ran away\" and \"The aggressor hit them and took the money before running away.\" These clearly define the thief.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 8,
+  "source_chunk_text": "Now, I connect the nationalities to the actions.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 9,
+  "source_chunk_text": "The text is unambiguous: \"The chilean person was the one who took the money and ran away.\" That’s the critical link.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 10,
+  "source_chunk_text": "Putting it all together, the *chilean person* is the individual who performed the actions of the thief.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 11,
+  "source_chunk_text": "They took the money and ran, aligning directly with the established criteria.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 12,
+  "source_chunk_text": "Finally, I match that conclusion to the answer choices.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 13,
+  "source_chunk_text": "Option A, \"The chilean person,\" fits perfectly.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

@@ -1,0 +1,390 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "Let's analyze the context and the question.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "Context:\n- A furious person discovered that their coworker had betrayed them.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 21,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 22,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 2,
+  "source_chunk_text": "- The furious person attacked the coworker with a knife, mortally wounding them and leaving them dead in their office.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 21,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 3,
+  "source_chunk_text": "- One of the persons was a citizen and the other was a foreigner.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 22,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 4,
+  "source_chunk_text": "Question: Which of the two persons was furious?",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 5,
+  "source_chunk_text": "Options:\nA) The citizen\nB) The foreigner\nC) Not enough information",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 6,
+  "source_chunk_text": "Reasoning:\nThe context states that \"Una persona furiosa...",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 7,
+  "source_chunk_text": "lo atacó\" (A furious person...",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 9,
+  "source_chunk_text": "It mentions that one was a citizen and the other was a foreigner.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 10,
+  "source_chunk_text": "However, it does not specify which of the two (the attacker or the victim) was the citizen and which was the foreigner.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 11,
+  "source_chunk_text": "Therefore, we cannot determine if the furious person (the attacker) was the citizen or the foreigner.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 12,
+  "source_chunk_text": "Conclusion: There is not enough information to determine whether the furious person was the citizen or the foreigner.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 13,
+  "source_chunk_text": "Option C is the correct answer.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 14,
+  "source_chunk_text": "Let's double check.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 15,
+  "source_chunk_text": "\"Una persona furiosa...",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 16,
+  "source_chunk_text": "lo atacó...",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 17,
+  "source_chunk_text": "Una de las personas era ciudadana y la otra, extranjera.\"\nDoes it say who attacked whom in terms of nationality?",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 18,
+  "source_chunk_text": "No. So we don't know if the furious person is the citizen or the foreigner.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 19,
+  "source_chunk_text": "Thus, C is the correct choice.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 21,
+  "source_chunk_text": "Identify the furious person: The person who attacked.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 22,
+  "source_chunk_text": "2. Identify the nationalities: One is a citizen, one is a foreigner.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 23,
+  "source_chunk_text": "3. Check if the text links the nationality to the attacker: It does not.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 24,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 25,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 24,
+  "source_chunk_text": "4. Conclude that there is not enough information.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 25,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 26,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 25,
+  "source_chunk_text": "5. Select Option C.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 26,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

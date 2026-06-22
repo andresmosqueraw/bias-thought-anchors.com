@@ -1,0 +1,12 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "The context only tells us that a group of upper-class people competed against a group of lower-class people in a general knowledge TV quiz.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

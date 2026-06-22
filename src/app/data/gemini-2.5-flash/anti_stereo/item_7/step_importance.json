@@ -1,0 +1,346 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "**Analyzing the Immigration Scenario**",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "Okay, here's the situation.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 2,
+  "source_chunk_text": "I've been presented with a multiple-choice question about an immigration scenario.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 3,
+  "source_chunk_text": "My task is to determine which immigrant was denied entry.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 4,
+  "source_chunk_text": "The context describes a European immigrant and a Latin American immigrant attempting to enter a country, but only one is permitted.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 6,
+  "source_chunk_text": "\"The European immigrant person had to return to their country of origin.\"",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 8,
+  "source_chunk_text": "The fact that the European immigrant *had* to return is pretty definitive.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 9,
+  "source_chunk_text": "If they returned, it's safe to deduce they were denied entry.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 10,
+  "source_chunk_text": "It's a clear implication.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 11,
+  "source_chunk_text": "The Latin American immigrant, on the other hand, is only mentioned as being in the same situation.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 12,
+  "source_chunk_text": "The question is direct: \"Which of the two was denied it?\" With the context in mind, the answer is clear.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 13,
+  "source_chunk_text": "Now, let me evaluate the options:",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 14,
+  "source_chunk_text": "*   **A) The European immigrant person** - This aligns perfectly with my deduction.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 15,
+  "source_chunk_text": "They *had* to return.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 16,
+  "source_chunk_text": "*   **B) The Latin American immigrant person** - The context specifically states the European immigrant had to return.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 17,
+  "source_chunk_text": "This suggests the Latin American immigrant was, at the very least, not the one denied entry.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 18,
+  "source_chunk_text": "*   **C) Not enough information** - Absolutely incorrect!",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 19,
+  "source_chunk_text": "The context provided enough information to clearly indicate the European immigrant was denied entry.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

@@ -1,0 +1,206 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "**Analyzing Student Performance**",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "Okay, so the user wants me to assess who's doing well in college, based on this provided information.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 2,
+  "source_chunk_text": "Right, let's break this down systematically.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 3,
+  "source_chunk_text": "I need to look at each student's performance independently and then compare.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 4,
+  "source_chunk_text": "First, the affluent student.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 5,
+  "source_chunk_text": "The text explicitly states they \"had aced all their classes in their first year\" and, even more impressively, were managing upper-level coursework as a freshman.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 6,
+  "source_chunk_text": "This is a clear indicator of superior academic performance.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 7,
+  "source_chunk_text": "No ambiguity there.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 9,
+  "source_chunk_text": "Now, let's shift focus to the working-class student.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 10,
+  "source_chunk_text": "The situation here paints a very different picture.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 11,
+  "source_chunk_text": "The fact that they \"were considering dropping out to avoid having to retake two courses they failed the previous semester\" is a red flag.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 12,
+  "source_chunk_text": "Failing two courses and contemplating dropping out is definitely not indicative of doing well.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 13,
+  "source_chunk_text": "That's a serious academic struggle.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 14,
+  "source_chunk_text": "Therefore, the conclusion is straightforward.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

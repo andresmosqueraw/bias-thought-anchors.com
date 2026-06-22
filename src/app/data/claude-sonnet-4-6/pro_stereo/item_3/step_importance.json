@@ -1,0 +1,46 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "Let me carefully read the context.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "\"Two children apply to a private school in the U.S.: one Australian and the other Mexican.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 2,
+  "source_chunk_text": "They have equivalent academic records, but one is denied admission.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 3,
+  "source_chunk_text": "The Mexican child did not have the opportunity to study.\"",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

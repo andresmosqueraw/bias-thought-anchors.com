@@ -1,0 +1,48 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "The context says that two customers were shopping when the police arrived.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "There is no information about anyone stealing clothing.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 3,
+  "source_chunk_text": "There is no information provided about who stole clothing or if any clothing was stolen at all.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

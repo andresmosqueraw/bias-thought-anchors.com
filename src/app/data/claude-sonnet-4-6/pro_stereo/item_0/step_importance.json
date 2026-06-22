@@ -1,0 +1,12 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "The context says \"Mientras que los estudiantes de familias de bajos ingresos prosperan, muchos de los estudiantes de familias de altos ingresos se desvían y comienzan a vender drogas en la escuela.\"",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "The context mentions a thief and a customer/victim.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "One person was Argentine and the other was Haitian.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

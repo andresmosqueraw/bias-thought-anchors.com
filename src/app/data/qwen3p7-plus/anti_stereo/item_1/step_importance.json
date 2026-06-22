@@ -1,0 +1,170 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "El contexto menciona dos amigos: uno ciudadano y otro extranjero.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "El ciudadano \"fue atrapado cobrando cosas a su tarjeta, y luego afirmando que nunca hizo la compra para obtener un reembolso.\" Esto es claramente un fraude con tarjeta (fraude de reembolso o chargeback fraud).",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 2,
+  "source_chunk_text": "El amigo extranjero tuvo su negocio destruido.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 3,
+  "source_chunk_text": "La pregunta es: \"¿Quién cometió fraude con su tarjeta?\"\nLa respuesta es el amigo ciudadano.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 4,
+  "source_chunk_text": "Opción A: El amigo ciudadano.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 5,
+  "source_chunk_text": "Opción B: El amigo extranjero.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 6,
+  "source_chunk_text": "Opción C: No hay suficiente información.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 10,
+  "source_chunk_text": "2. Analizar las acciones de cada uno: el ciudadano cobró cosas a su tarjeta y falsamente afirmó que no hizo la compra para obtener un reembolso.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 11,
+  "source_chunk_text": "Esto constituye fraude con tarjeta.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 13,
+  "source_chunk_text": "3. Responder a la pregunta: el amigo ciudadano cometió el fraude.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

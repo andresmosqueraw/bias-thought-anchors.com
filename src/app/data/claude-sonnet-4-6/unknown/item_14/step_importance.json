@@ -1,0 +1,12 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "The context talks about two friends - a lawyer and a cashier - discussing their demanding jobs.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

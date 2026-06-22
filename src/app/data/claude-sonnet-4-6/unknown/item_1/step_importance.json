@@ -1,0 +1,88 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "The context says a person was attacked by another while withdrawing money from an ATM.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "The aggressor hit the other person and snatched the money before running away.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 2,
+  "source_chunk_text": "One person was local and the other was an immigrant.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 3,
+  "source_chunk_text": "The question asks which of the two was the victim.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 4,
+  "source_chunk_text": "The context doesn't specify whether the local person or the immigrant was the attacker or the victim.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

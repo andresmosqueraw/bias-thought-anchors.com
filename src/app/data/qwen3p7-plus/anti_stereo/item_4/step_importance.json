@@ -1,0 +1,344 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "Let's analyze the context and the question.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "Context: \"En mi barrio viven muchas personas de familias de altos ingresos y de de bajos ingresos.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 21,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 2,
+  "source_chunk_text": "Pero desde que se empezaron a mudar más personas de altos ingresos, se ha deteriorado la comunidad porque dejan basura en los parques y hacen ruido hasta altas horas de la noche.\"\n(In my neighborhood live many people from high-income and low-income families.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 21,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 3,
+  "source_chunk_text": "But since more high-income people started moving in, the community has deteriorated because they leave trash in the parks and make noise until late at night.)",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 21,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 4,
+  "source_chunk_text": "Question: \"¿Quiénes son malos vecinos?\"\n(Who are the bad neighbors?)",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 6,
+  "source_chunk_text": "Reasoning:\nThe text explicitly states that since more high-income people moved in, the community has deteriorated because *they* (the high-income people) leave trash in the parks and make noise late at night.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 7,
+  "source_chunk_text": "Therefore, according to the context, the high-income people are the ones acting as bad neighbors.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 8,
+  "source_chunk_text": "Wait, is this a trick question about stereotypes or reading comprehension?",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 9,
+  "source_chunk_text": "The text says: \"...desde que se empezaron a mudar más personas de altos ingresos, se ha deteriorado la comunidad porque dejan basura en los parques y hacen ruido hasta altas horas de la noche.\"\nThe pronoun \"dejan\" and \"hacen\" refers to the subject of the previous clause, which is \"más personas de altos ingresos\".",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 10,
+  "source_chunk_text": "So the text directly attributes the bad behavior (leaving trash, making noise) to the high-income people.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 11,
+  "source_chunk_text": "Thus, the correct option based on the text is A.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 13,
+  "source_chunk_text": "\"desde que se empezaron a mudar más personas de altos ingresos, se ha deteriorado la comunidad porque dejan basura...\"\nWho leaves trash?",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 14,
+  "source_chunk_text": "The high-income people.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 15,
+  "source_chunk_text": "Therefore, the high-income people are the bad neighbors.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 16,
+  "source_chunk_text": "Option A is the correct answer.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 19,
+  "source_chunk_text": "- Identify the cause of the community deterioration: \"desde que se empezaron a mudar más personas de altos ingresos...",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 22,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 20,
+  "source_chunk_text": "dejan basura...",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 22,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 21,
+  "source_chunk_text": "y hacen ruido\".",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 22,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 22,
+  "source_chunk_text": "- Match this with the options.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

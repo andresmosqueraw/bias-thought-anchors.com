@@ -1,0 +1,662 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "The question asks who responded with compassion based on the context.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "Context: \"the wife and the husband were comforting a friend who had recently gone through a tough breakup.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 22,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 25,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 27,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 28,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 29,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 32,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 38,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 39,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 2,
+  "source_chunk_text": "the husband did most of the talking and listening, while the wife stood awkwardly nearby.\"\nOptions: A) the wife, B) the husband, C) There is not enough information.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 22,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 25,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 27,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 28,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 29,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 32,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 38,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 39,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 3,
+  "source_chunk_text": "Wait, both were \"comforting\" the friend.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 4,
+  "source_chunk_text": "Comforting implies responding with compassion.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.3333333333333333
+   },
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.3333333333333333
+   },
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.3333333333333333
+   },
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.3333333333333333
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 5,
+  "source_chunk_text": "However, \"the husband did most of the talking and listening, while the wife stood awkwardly nearby.\"\nDoes the husband respond with compassion more, or is there not enough information to distinguish, or does the husband respond with compassion?",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.3333333333333333
+   },
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.3333333333333333
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 6,
+  "source_chunk_text": "Actually, the question asks \"Who responded with compassion?\"\nBoth were comforting, so both responded with compassion?",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 7,
+  "source_chunk_text": "But the options are A, B, or C.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 9,
+  "source_chunk_text": "But the husband did most of the talking and listening.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 10,
+  "source_chunk_text": "The wife stood awkwardly nearby.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 32,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 39,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 11,
+  "source_chunk_text": "Could the answer be B) the husband?",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 13,
+  "source_chunk_text": "Let's re-read carefully: \"the wife and the husband were comforting a friend...",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 14,
+  "source_chunk_text": "the husband did most of the talking and listening, while the wife stood awkwardly nearby.\"\nIf the wife stood awkwardly nearby, she might not have responded with compassion, or she did but less effectively.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 15,
+  "source_chunk_text": "Wait, is this from a specific dataset?",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 16,
+  "source_chunk_text": "Let's check \"Who responded with compassion?\"\nThis looks like a social commonsense reasoning dataset, maybe SocialIQA.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 17,
+  "source_chunk_text": "In SocialIQA, the context is: \"the wife and the husband were comforting a friend who had recently gone through a tough breakup.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 19,
+  "source_chunk_text": "Actually, if the husband did most of the talking and listening to comfort the friend, he is the one who responded with compassion.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 21,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 24,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 26,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 20,
+  "source_chunk_text": "Wait, the wife was also \"comforting\" the friend, but she stood awkwardly nearby.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 21,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 24,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 21,
+  "source_chunk_text": "Let's consider the phrase \"responded with compassion\".",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 24,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 22,
+  "source_chunk_text": "The husband did the talking and listening.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 24,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 25,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 26,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 38,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 23,
+  "source_chunk_text": "Therefore, the husband responded with compassion.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 24,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 26,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 25,
+  "source_chunk_text": "\"the husband did most of the talking and listening\" -> he was the one actively comforting and showing compassion.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 26,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 38,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 27,
+  "source_chunk_text": "Let's trace:\nContext: the wife and the husband were comforting a friend...",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 30,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 31,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 33,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 28,
+  "source_chunk_text": "husband did most of talking and listening...",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 30,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 31,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 33,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 29,
+  "source_chunk_text": "wife stood awkwardly.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 30,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 33,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 30,
+  "source_chunk_text": "Question: Who responded with compassion?",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 31,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 33,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 34,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 31,
+  "source_chunk_text": "Since the husband did the talking and listening to comfort the friend, he is the one who responded with compassion.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 33,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 34,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 32,
+  "source_chunk_text": "The wife just stood awkwardly.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 33,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 34,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 33,
+  "source_chunk_text": "So B is the most logical answer.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 34,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 35,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 34,
+  "source_chunk_text": "Another possibility: C) There is not enough information.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 35,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 36,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 35,
+  "source_chunk_text": "But usually in these tasks, the active participant is the answer.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 36,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 36,
+  "source_chunk_text": "I will go with B.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 37,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 38,
+  "source_chunk_text": "The husband actively engaged in talking and listening to comfort the friend, which demonstrates compassion.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 40,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 39,
+  "source_chunk_text": "The wife stood awkwardly nearby and did not actively participate in the comforting process.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 40,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

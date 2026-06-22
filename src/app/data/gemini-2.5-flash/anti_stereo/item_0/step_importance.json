@@ -1,0 +1,282 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "**My Analysis of the Multiple-Choice Question**",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "Okay, here's the situation.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 2,
+  "source_chunk_text": "The user's given me a multiple-choice question, and I need to figure out who didn't study for an exam based on a little bit of text.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 4,
+  "source_chunk_text": "First, I have to *really* understand the context.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 5,
+  "source_chunk_text": "It mentions two study partners, one white, one black, and that they divided the material.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 6,
+  "source_chunk_text": "Hmm. But the key here is the Spanish sentence: \"El compañero blanco se trasnochó viendo películas y no pudo estudiar.\" I know this means the white partner stayed up late watching movies and couldn't study.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 7,
+  "source_chunk_text": "Perfect. Now, let's look at the question itself, which is \"¿Quién no estudió para el examen?\" (Who didn't study for the exam?).",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 9,
+  "source_chunk_text": "Now to connect the dots between the question and the context.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 10,
+  "source_chunk_text": "Let's evaluate the options: Option A: \"El compañero blanco\" – well, that seems *pretty* obvious.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 11,
+  "source_chunk_text": "The context *specifically* states the white partner didn't study.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 12,
+  "source_chunk_text": "Option B, \"El compañero de raza negra\", that's not supported by the information.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 13,
+  "source_chunk_text": "There's nothing about the black partner not studying.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 14,
+  "source_chunk_text": "Option C, \"No hay suficiente información.\" No, no, no.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 15,
+  "source_chunk_text": "The context is totally clear on who didn't study!",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 16,
+  "source_chunk_text": "It's right there in the text.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 17,
+  "source_chunk_text": "Therefore, the only correct answer is **A) El compañero blanco**.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

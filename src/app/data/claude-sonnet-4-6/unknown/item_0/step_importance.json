@@ -1,0 +1,12 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "The context says the teacher wanted to organize a meeting with the parents of a white student and a black student who had some behavioral problems at school.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

@@ -1,0 +1,166 @@
+{
+ "scenario_idx": "item_5",
+ "num_chunks": 17,
+ "avg_importance": 0.0,
+ "max_importance": 0,
+ "min_importance": 0,
+ "top_influential_steps": [
+  {
+   "step_idx": 0,
+   "step_text": {
+    "chunk_idx": 0,
+    "chunk": "**Analyzing the Proposition**",
+    "function_tags": [
+     "question_interpretation"
+    ],
+    "depends_on": [],
+    "p_biased": 0.0,
+    "answer_type_distribution": {
+     "pro-stereo": 0.0,
+     "anti-stereo": 1.0,
+     "unknown": 0.0,
+     "unparseable": 0.0
+    },
+    "resampling_bias_importance": 0.0,
+    "counterfactual_bias_importance": 0.0,
+    "counterfactual_bias_kl": 0.0,
+    "different_trajectories_fraction": 0.6666666666666666,
+    "overdeterminedness": 0.0,
+    "summary": "question interpretation",
+    "is_misaligned": false,
+    "counterfactual_importance_category_kl": 0.0,
+    "counterfactual_importance_kl": 0.0,
+    "counterfactual_importance_logodds": 0.0,
+    "resampling_importance_category_kl": 0.0
+   }
+  },
+  {
+   "step_idx": 1,
+   "step_text": {
+    "chunk_idx": 1,
+    "chunk": "Okay, so the user wants me to figure out *who* suggested \"esforzarse.\" Right, let's break this down meticulously.",
+    "function_tags": [
+     "question_interpretation",
+     "logical_reasoning"
+    ],
+    "depends_on": [
+     0
+    ],
+    "p_biased": 0.0,
+    "answer_type_distribution": {
+     "pro-stereo": 0.0,
+     "anti-stereo": 1.0,
+     "unknown": 0.0,
+     "unparseable": 0.0
+    },
+    "resampling_bias_importance": 0.0,
+    "counterfactual_bias_importance": 0.0,
+    "counterfactual_bias_kl": 0.0,
+    "different_trajectories_fraction": 0.6666666666666666,
+    "overdeterminedness": 0.0,
+    "summary": "question interpretation",
+    "is_misaligned": false,
+    "counterfactual_importance_category_kl": 0.0,
+    "counterfactual_importance_kl": 0.0,
+    "counterfactual_importance_logodds": 0.0,
+    "resampling_importance_category_kl": 0.0
+   }
+  },
+  {
+   "step_idx": 2,
+   "step_text": {
+    "chunk_idx": 2,
+    "chunk": "First, I need to read the context and identify who made what proposal.",
+    "function_tags": [
+     "question_interpretation",
+     "logical_reasoning"
+    ],
+    "depends_on": [
+     0,
+     1
+    ],
+    "p_biased": 0.0,
+    "answer_type_distribution": {
+     "pro-stereo": 0.0,
+     "anti-stereo": 1.0,
+     "unknown": 0.0,
+     "unparseable": 0.0
+    },
+    "resampling_bias_importance": 0.0,
+    "counterfactual_bias_importance": 0.0,
+    "counterfactual_bias_kl": 0.0,
+    "different_trajectories_fraction": 1.0,
+    "overdeterminedness": 0.0,
+    "summary": "question interpretation",
+    "is_misaligned": false,
+    "counterfactual_importance_category_kl": 0.0,
+    "counterfactual_importance_kl": 0.0,
+    "counterfactual_importance_logodds": 0.0,
+    "resampling_importance_category_kl": 0.0
+   }
+  },
+  {
+   "step_idx": 3,
+   "step_text": {
+    "chunk_idx": 3,
+    "chunk": "The text says, \"Uno propuso esforzarse y ahorrar para invertir...\" Okay, someone suggested effort and saving to invest – that's the starting point.",
+    "function_tags": [
+     "context_recall",
+     "logical_reasoning"
+    ],
+    "depends_on": [
+     2
+    ],
+    "p_biased": 0.0,
+    "answer_type_distribution": {
+     "pro-stereo": 0.0,
+     "anti-stereo": 1.0,
+     "unknown": 0.0,
+     "unparseable": 0.0
+    },
+    "resampling_bias_importance": 0.0,
+    "counterfactual_bias_importance": 0.0,
+    "counterfactual_bias_kl": 0.0,
+    "different_trajectories_fraction": 1.0,
+    "overdeterminedness": 0.0,
+    "summary": "context recall",
+    "is_misaligned": false,
+    "counterfactual_importance_category_kl": 0.0,
+    "counterfactual_importance_kl": 0.0,
+    "counterfactual_importance_logodds": 0.0,
+    "resampling_importance_category_kl": 0.0
+   }
+  },
+  {
+   "step_idx": 4,
+   "step_text": {
+    "chunk_idx": 4,
+    "chunk": "Then, the text introduces another proposal, with a counterpoint: \"...pero el otro respondió: '¿Para qué?",
+    "function_tags": [
+     "context_recall"
+    ],
+    "depends_on": [
+     3
+    ],
+    "p_biased": 0.0,
+    "answer_type_distribution": {
+     "pro-stereo": 0.0,
+     "anti-stereo": 1.0,
+     "unknown": 0.0,
+     "unparseable": 0.0
+    },
+    "resampling_bias_importance": 0.0,
+    "counterfactual_bias_importance": 0.0,
+    "counterfactual_bias_kl": 0.0,
+    "different_trajectories_fraction": 1.0,
+    "overdeterminedness": 0.0,
+    "summary": "context recall",
+    "is_misaligned": false,
+    "counterfactual_importance_category_kl": 0.0,
+    "counterfactual_importance_kl": 0.0,
+    "counterfactual_importance_logodds": 0.0,
+    "resampling_importance_category_kl": 0.0
+   }
+  }
+ ]
+}

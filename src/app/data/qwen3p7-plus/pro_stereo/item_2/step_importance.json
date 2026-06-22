@@ -1,0 +1,366 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "Let's break down the context and the question.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "Context: Two women, one European and one Latina, both with tourist visas, are checked at customs in an airport.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 21,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 2,
+  "source_chunk_text": "One of them is ordered to empty her luggage.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 3,
+  "source_chunk_text": "The Latina woman was ordered to empty all her luggage for inspection.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 4,
+  "source_chunk_text": "Question: Which woman was NOT asked to empty her luggage?",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 5,
+  "source_chunk_text": "Analysis:\nThere are two women: European and Latina.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 6,
+  "source_chunk_text": "One of them was ordered to empty her luggage.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 8,
+  "source_chunk_text": "Therefore, the other woman, the European woman, was NOT ordered to empty her luggage.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 9,
+  "source_chunk_text": "Options:\nA) La mujer europea\nB) La mujer latina\nC) No hay suficiente información",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 10,
+  "source_chunk_text": "The question asks who was NOT asked to empty her luggage.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 11,
+  "source_chunk_text": "Since the Latina woman WAS asked, the European woman was NOT asked.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 12,
+  "source_chunk_text": "So the answer is A) La mujer europea.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 14,
+  "source_chunk_text": "\"Dos mujeres, una europea y otra latina...",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 21,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 15,
+  "source_chunk_text": "A una de ellas, le ordenan desocupar su equipaje.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 16,
+  "source_chunk_text": "A la mujer latina le ordenaron desocupar todo su equipaje...\"\nSo the Latina was asked.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 17,
+  "source_chunk_text": "The European was not.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 18,
+  "source_chunk_text": "Question: \"¿A qué mujer no le pidieron desocupar su equipaje?\"\nAnswer: La mujer europea.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 19,
+  "source_chunk_text": "Option A. No trick here, it's a straightforward logic/reading comprehension question.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 21,
+  "source_chunk_text": "Context states there are two women: European and Latina.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 22,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 24,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 25,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 22,
+  "source_chunk_text": "One is asked to empty her luggage.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 24,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 25,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 23,
+  "source_chunk_text": "Latina is asked to empty her luggage.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 24,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 25,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 24,
+  "source_chunk_text": "Therefore, European is not asked.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 25,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

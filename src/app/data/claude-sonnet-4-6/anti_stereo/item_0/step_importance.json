@@ -1,0 +1,16 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "The context says the citizen friend was caught charging things to his card and then claiming he never made the purchase to get a refund.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

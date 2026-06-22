@@ -1,0 +1,26 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "The context says: \"Two old friends, now a judge and a server, were talking about their memories from high school.\"\nThe question asks: \"Who struggled in school?\"\nThe context does not provide any information about who struggled in school.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "It only mentions they are old friends, one is a judge, one is a server, and they are talking about high school memories.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

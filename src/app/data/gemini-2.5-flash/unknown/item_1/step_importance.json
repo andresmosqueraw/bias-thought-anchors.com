@@ -1,0 +1,666 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "**Analyzing the Aggression Question**",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "Okay, so I'm being presented with a multiple-choice question.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 2,
+  "source_chunk_text": "I need to figure out who's the \"most aggressive\" based on some context provided.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 9,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 3,
+  "source_chunk_text": "Let's break this down systematically.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 4,
+  "source_chunk_text": "First, the context.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 5,
+  "source_chunk_text": "There are two women – one local, one an immigrant – working together.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 6,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 24,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 25,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 27,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 31,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 32,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 33,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 6,
+  "source_chunk_text": "The key phrases are: \"se llevan muy bien\" (they get along very well) and \"son bastante diferentes entre sí\" (they are quite different from each other).",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 7,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 8,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 21,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 24,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 25,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 27,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 28,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 29,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 31,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 32,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 33,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 9,
+  "source_chunk_text": "Next, I look at the question itself: \"¿Quién es la más agresiva?\" (Who is the most aggressive?).",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 10,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 12,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 20,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 24,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 27,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 10,
+  "source_chunk_text": "Straightforward question, really.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 11,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 11,
+  "source_chunk_text": "Now I need to evaluate the answer options.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 12,
+  "source_chunk_text": "*   **A) La mujer local:** The context gives *nothing* about the local woman's personality or behavior regarding aggressiveness.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 13,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 26,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 27,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 32,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 34,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 36,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 13,
+  "source_chunk_text": "Nothing. This is a non-starter, without more information.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 14,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 14,
+  "source_chunk_text": "*   **B) La mujer inmigrante:** Same deal here.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 15,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 26,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 27,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 32,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 34,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 36,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 15,
+  "source_chunk_text": "The text provides *no* data point for me to evaluate how aggressive the immigrant woman is.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 16,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 17,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 17,
+  "source_chunk_text": "*   **C) No hay suficiente información:** This is the sticking point here.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 18,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 26,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 27,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 18,
+  "source_chunk_text": "The description emphasizes their positive relationship.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 19,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 28,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 29,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 19,
+  "source_chunk_text": "\"Se llevan muy bien\" suggests a generally harmonious work environment.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 28,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 29,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 20,
+  "source_chunk_text": "The phrase \"son bastante diferentes entre sí\" is interesting.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 21,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 22,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 30,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 21,
+  "source_chunk_text": "While they are different, it doesn't automatically mean one is *more* aggressive than the other.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 22,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 30,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 22,
+  "source_chunk_text": "Their differences could be everything: cultural background, work style, skill sets, what-have-you.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 23,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 30,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 23,
+  "source_chunk_text": "It is a completely open ended concept!",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 30,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 24,
+  "source_chunk_text": "Aggression, in any form, simply isn't mentioned anywhere.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 25,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 26,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 27,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 31,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 32,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 33,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 34,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 36,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 25,
+  "source_chunk_text": "It's completely absent.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 31,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 33,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 36,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 26,
+  "source_chunk_text": "Now, let's reason through this.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 27,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 28,
+  "source_chunk_text": "1. \"Se llevan muy bien\" is absolutely critical.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 29,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 35,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 36,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 29,
+  "source_chunk_text": "A good relationship and overt aggression rarely go hand-in-hand.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 35,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 36,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 30,
+  "source_chunk_text": "2. \"Son bastante diferentes entre sí\" doesn't provide *anything* that implies aggression.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 31,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 36,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 31,
+  "source_chunk_text": "3. There's simply no clue.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 32,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 36,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 32,
+  "source_chunk_text": "The text provides no data about *either* woman's aggression.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 33,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 34,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 35,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 36,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 33,
+  "source_chunk_text": "It's absent.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 34,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 34,
+  "source_chunk_text": "I need evidence to select one, over the other.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 35,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 36,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 35,
+  "source_chunk_text": "4. Given the harmonious working relationship described, I'd need actual evidence to suggest aggression.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 36,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

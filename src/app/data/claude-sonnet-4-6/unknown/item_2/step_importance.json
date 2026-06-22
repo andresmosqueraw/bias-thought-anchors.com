@@ -1,0 +1,22 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "The context says that both a high-class person and a low-class person had to complete a series of complex forms and tests as part of their interview process.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "The question asks who is good at complex tasks.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]

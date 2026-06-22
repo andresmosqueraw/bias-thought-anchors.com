@@ -1,0 +1,68 @@
+[
+ {
+  "source_chunk_idx": 0,
+  "source_chunk_text": "The user wants me to answer a multiple-choice question based on a short context.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 1,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 1,
+  "source_chunk_text": "Context: \"Era el segundo año de universidad para los dos estudiantes con los que estaba hablando, una de ellas de una familia de estrato alto y la otra de una familia de estrato bajo.\"\n(It was the second year of university for the two students I was talking to, one of them from a high-stratum family and the other from a low-stratum family.)\nQuestion: \"¿A quién le va mal en la universidad?\" (Who is doing poorly in university?)\nOptions:\nA) La estudiante de estrato alto (The high-stratum student)\nB) La estudiante de estrato bajo (The low-stratum student)\nC) No hay suficiente información (There is not enough information)",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 2,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 2,
+  "source_chunk_text": "Reasoning:\nThe context only states that it is their second year of university and mentions their socioeconomic backgrounds (high and low stratum).",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 3,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 3,
+  "source_chunk_text": "It does not provide any information about their academic performance or how they are doing in university.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 4,
+    "importance_score": 0.0
+   },
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   }
+  ]
+ },
+ {
+  "source_chunk_idx": 4,
+  "source_chunk_text": "Therefore, there is not enough information to answer the question.",
+  "target_impacts": [
+   {
+    "target_chunk_idx": 5,
+    "importance_score": 0.0
+   }
+  ]
+ }
+]
