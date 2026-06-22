@@ -178,7 +178,7 @@ export default function HomeScreen() {
         <Layout>
             <Navbar />
             <VisualizerContainer>
-                <Title>⚓️ Thought Anchors: Which LLM Reasoning Steps Matter?</Title>
+                <Title>⚓️ Thought Anchors for Social Bias: Which Reasoning Steps Matter in Extended Thinking LLMs on Latin American Scenarios</Title>
                 <Description>
                     Interactive visualization tool for analyzing causal relationships and <strong>counterfactual importance attribution  </strong> 
                     in reasoning chains. Explore how different reasoning steps 

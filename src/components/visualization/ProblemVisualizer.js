@@ -1994,19 +1994,31 @@ const ProblemVisualizer = ({
                                             </p>
                                         </div>
                                     )}
-                                    {problemData && problemData.urgency_type && (
-                                        <div
-                                            style={{
-                                                marginBottom: '0.5rem',
-                                                flexDirection: 'row',
-                                                display: 'flex',
-                                                alignItems: 'center',
-                                                gap: '0.5rem',
-                                            }}
-                                        >
-                                            <p>
-                                                <strong>Type:</strong>
-                                            </p>
+                                    {isBiasModel && problemData && (() => {
+                                        const LANG_LABEL = { es: 'Spanish', en: 'English' }
+                                        const COND_LABEL = { disambig: 'Disambiguated', ambig: 'Ambiguous' }
+                                        const POL_LABEL  = { neg: 'Negative', nonneg: 'Non-negative' }
+                                        const CAT_LABEL  = (c) => c ? c.charAt(0).toUpperCase() + c.slice(1) : '—'
+                                        const rows = [
+                                            ['Category',  CAT_LABEL(problemData.category)],
+                                            ['Language',  LANG_LABEL[problemData.language] || problemData.language],
+                                            ['Context',   COND_LABEL[problemData.context_condition] || problemData.context_condition],
+                                            ['Polarity',  POL_LABEL[problemData.question_polarity]  || problemData.question_polarity],
+                                        ]
+                                        return (
+                                            <div style={{ marginBottom: '0.5rem', display: 'flex', flexDirection: 'column', gap: '0.15rem' }}>
+                                                {rows.map(([label, value]) => value && (
+                                                    <div key={label} style={{ display: 'flex', flexDirection: 'row', gap: '0.4rem', alignItems: 'center' }}>
+                                                        <p style={{ minWidth: '70px', color: '#555', fontSize: '0.85rem' }}>{label}:</p>
+                                                        <p style={{ fontSize: '0.85rem' }}>{value}</p>
+                                                    </div>
+                                                ))}
+                                            </div>
+                                        )
+                                    })()}
+                                    {!isBiasModel && problemData && problemData.urgency_type && (
+                                        <div style={{ marginBottom: '0.5rem', flexDirection: 'row', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                                            <p><strong>Type:</strong></p>
                                             <p>{problemData.urgency_type}</p>
                                         </div>
                                     )}
